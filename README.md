@@ -1,7 +1,10 @@
 # Tienda-Online
 Proyecto de django base para una tienda online, no es un proyecto terminado solo sirve de plantilla para futuros proyectos
+
 django-admin startproyect <Nombre proyecto>
+  
 python manage.py startapp <Nombre app>
+  
 python manage.py check <nombreApp>
 python manage.py makemigrations
 python manage.py sqlmigrate gestionPedidos <version>
